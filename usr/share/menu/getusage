@@ -1,0 +1,6 @@
+cd ?package(getusage):needs="X11" \
+ section="Applications/Accessories" \
+ title="GetUsage" \
+ description="GetUsage allows you to check your Telstra Bigpond internet usage." \
+ command="/usr/bin/getusage.py" \
+ icon="/usr/share/pixmaps/getusage.svg"

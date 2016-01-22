@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.4
+Encoding=UTF-8
+Name=GetUsage
+Comment=GetUsage allows you to check your Telstra Bigpond internet usage.
+MimeType=application/getusage
+Exec=getusage.py
+Terminal=false
+Type=Application
+Icon=getusage
+Categories=Qt;Utility;
+GenericName=GetUsage
+GenericName[en]=GetUsage
